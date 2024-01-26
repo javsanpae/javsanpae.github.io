@@ -116,7 +116,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://javsanpae.github.io/about/"
+baseurl:
 
 # ------------ The following options are not recommended to be modified ------------------
 
