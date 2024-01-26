@@ -47,8 +47,8 @@ I worked as a HelpDesk Technician in Antequera's hospital.
 ## Completed
 - [X] [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/a2697f2c-5ba3-4bb9-981f-227a68983baa?source=linked_in_profile)
 - [X] [CCNA: Introduction to Networks](https://www.credly.com/badges/5a7e62e0-563a-44c3-8d16-8dc7c8547a76?source=linked_in_profile)
-- [X] [Ansible Deployments]()
-- [X] [Jenkins for Beginners]()
+- [X] [Ansible Deployments](https://github.com/javsanpae/javsanpae.github.io/blob/main/assets/pdf/certifications/ansible_deployments.pdf)
+- [X] [Jenkins for Beginners](https://github.com/javsanpae/javsanpae.github.io/blob/main/assets/pdf/certifications/jenkins_for_beginners.pdf)
 
 
 ## To complete on 2024:
