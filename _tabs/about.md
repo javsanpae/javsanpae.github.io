@@ -192,6 +192,6 @@ During my training in Antequera, I gained specialized knowledge in microcomputer
 
 # Talk to me!
 
-You can either send me an [email](mailto://javsanpae@gmail.com) or send me a [LinkedIn invite or message](https://linkedin.com/in/javsanpae)
+You can either send me an [email](mailto:javsanpae@gmail.com) or send me a [LinkedIn invite or message](https://linkedin.com/in/javsanpae)
 
 Thanks for your time, and I hope to talk to you soon!
