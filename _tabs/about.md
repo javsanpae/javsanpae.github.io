@@ -169,7 +169,7 @@ During my training in Antequera, I gained specialized knowledge in microcomputer
 - [X] [CCNA: Introduction to Networks](https://www.credly.com/badges/5a7e62e0-563a-44c3-8d16-8dc7c8547a76?source=linked_in_profile)
 - [X] [Ansible Deployments](https://github.com/javsanpae/javsanpae.github.io/blob/main/assets/pdf/certifications/ansible_deployments.pdf)
 - [X] [Jenkins for Beginners](https://github.com/javsanpae/javsanpae.github.io/blob/main/assets/pdf/certifications/jenkins_for_beginners.pdf)
-
+- [X] [EFSET English Certificate](https://www.efset.org/cert/6xb6eS)
 
 ## To complete on 2024:
 
