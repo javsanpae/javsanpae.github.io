@@ -28,7 +28,7 @@ header h1 {
   display: inline-block;
   color: white;
 }
-.lang-switch {
+.theme-switch {
   position: absolute;
   top: 1rem;
   right: 1rem;
