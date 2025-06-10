@@ -5,7 +5,6 @@ lucide.createIcons();
 document.addEventListener("DOMContentLoaded", function () {
   const toggleButton = document.getElementById("theme-toggle");
 
-  // Cargar tema guardado o usar preferencia del sistema
   const savedTheme = localStorage.getItem("theme");
   const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
   const currentTheme = savedTheme || (prefersDark ? "dark" : "light");

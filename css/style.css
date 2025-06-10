@@ -28,11 +28,29 @@ header h1 {
   display: inline-block;
   color: white;
 }
-.theme-switch {
+.theme-switch button {
   position: absolute;
   top: 1rem;
   right: 1rem;
+  background-color: transparent;
+  border: none;
+  padding: 0.5rem;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+.theme-switch i {
+  font-size: 1.25rem;
+}
+
+.theme-switch button:hover,
+.theme-switch button:focus {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
 .section {
   max-width: 900px;
   margin: 3rem auto;
@@ -68,8 +86,8 @@ header h1 {
 .card-header {
   display: flex;
   align-items: center;
-  gap: 1.5rem; /* AUMENTADO */
-  margin-bottom: 0.5rem; /* Margen bajo para separar del contenido */
+  gap: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 .card-header img {
   width: 48px;
@@ -141,7 +159,7 @@ body.dark .card {
 }
 
 body.dark h2 {
-  color: #f9fafb;  /* Cambia el color de los h2 a blanco en modo oscuro */
+  color: #f9fafb;
 }
 
 ul {
@@ -150,5 +168,5 @@ ul {
 }
 
 .card p {
-  margin-bottom: 0.8rem; /* o el espacio que prefieras */
+  margin-bottom: 0.8rem;
 }
